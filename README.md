@@ -1,6 +1,8 @@
 
 # Kelompok 3 Manajemen Basis Data A
 
+- [Link Youtube](https://youtu.be/uSGdXaoY5r4)
+
 Anggota :
 
 
